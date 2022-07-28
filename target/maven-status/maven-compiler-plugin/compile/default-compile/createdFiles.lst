@@ -1,0 +1,13 @@
+br\com\cadastro\BatchConfiguration.class
+br\com\cadastro\models\RecargaRequest.class
+br\com\cadastro\services\CartaoService.class
+br\com\cadastro\controller\CartoesController.class
+br\com\cadastro\entity\Cartao.class
+br\com\cadastro\repositories\SecretyRepository.class
+br\com\cadastro\entity\Credits.class
+br\com\cadastro\repositories\CartaoRepository.class
+br\com\cadastro\repositories\MoneyRepository.class
+br\com\cadastro\Application.class
+br\com\cadastro\entity\Secrety.class
+br\com\cadastro\models\CartaoRequest.class
+br\com\cadastro\SwaggerConfig.class
