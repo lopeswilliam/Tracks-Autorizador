@@ -1,1 +1,1 @@
-SISTEMA DE CONTA CORRENTE.
+Sistema de conta corrente.
